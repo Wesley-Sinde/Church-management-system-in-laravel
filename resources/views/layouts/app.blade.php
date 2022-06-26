@@ -364,9 +364,23 @@
             </header>
         </div>
         <div class="h-13">
+            {{-- <blockquote class="twitter-tweet">
+                <p lang="en" dir="ltr">Success is not a ladder. It is a road to be taken. Check out the New
+                    Nissan Patrol 2020.
+                    <a
+                        href="https://twitter.com/hashtag/ConquerEverywhere src=hash&amp;ref_src=twsrc%5Etfw">#ConquerEverywhere</a>
+
+                </p>&mdash; Nissan Middle East (@NissanME)
+
+                <a href="https://twitter.com/NissanME/status/1209093566762541057?ref_src=twsrc%5Etfw">December 23,
+                    2019</a>
+
+            </blockquote>
+
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> --}}
         </div>
 
-        <main class="py-12">
+        <main class="py-12 mt-8">
             @yield('content')
         </main>
     </div>

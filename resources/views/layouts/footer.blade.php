@@ -19,7 +19,8 @@
             <h3 class="mb-3 text-xl font-medium text-gray-900 dark:text-white">Get more updates...</h3>
             <p class="mb-5 text-sm font-medium text-gray-500 dark:text-gray-300">Do you want to get notified when a new
                 component
-                is added to Flowbite? Sign up for our newsletter and you'll be among the first to find out about new
+                is added to Our church Website? Sign up for our newsletter and you'll be among the first to find out about
+                new
                 features,
                 components, versions, and tools.</p>
             <form action="" method="post" id="revue-form" name="revue-form">
