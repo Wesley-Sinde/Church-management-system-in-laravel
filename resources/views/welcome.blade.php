@@ -10,15 +10,15 @@
                         family</span>
                     <div class="flex flex-col mt-2 space-y-1 sm:flex-row sm:space-y-0 sm:items-center sm:space-x-1">
                         <h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200">
-                            Get To Know Your neighber
+                            Get To Know Your friend in christ
                         </h3>
                         <a href="/emergency"
                             class="text-gray-400 underline hover:underline underline-offset-auto hover:font-serif hover:dark:text-yellow-400">
-                            Need help i am in emergency!
+                            Need help from our leaders
                         </a>
                     </div>
                     <p class="text-gray-500 dark:text-gray-400 lg:max-w-xl description-link">
-                        Get the most out of your neighborhood with family. You can Instantly connect with your
+                        Get the most out of your neighborhood with family. You can Instantly connect with your church
                         neighborhood..
                     </p>
 
